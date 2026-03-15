@@ -1,0 +1,24 @@
+2026-03-06 15:32:40,946 - agent - INFO - vector_store.py - 70 - [加载知识库]D:\JetBrains\PyCharm 2024.3.1.1\workspace\Agent\agent_item\data\扫地机器人100问.pdf已经存在于知识库中
+2026-03-06 15:32:40,947 - agent - INFO - vector_store.py - 70 - [加载知识库]D:\JetBrains\PyCharm 2024.3.1.1\workspace\Agent\agent_item\data\扫地机器人100问2.txt已经存在于知识库中
+2026-03-06 15:32:40,949 - agent - INFO - vector_store.py - 70 - [加载知识库]D:\JetBrains\PyCharm 2024.3.1.1\workspace\Agent\agent_item\data\扫拖一体机器人100问.txt已经存在于知识库中
+2026-03-06 15:32:40,950 - agent - INFO - vector_store.py - 70 - [加载知识库]D:\JetBrains\PyCharm 2024.3.1.1\workspace\Agent\agent_item\data\故障排除.txt已经存在于知识库中
+2026-03-06 15:32:40,951 - agent - INFO - vector_store.py - 70 - [加载知识库]D:\JetBrains\PyCharm 2024.3.1.1\workspace\Agent\agent_item\data\维护保养.txt已经存在于知识库中
+2026-03-06 15:32:40,952 - agent - INFO - vector_store.py - 70 - [加载知识库]D:\JetBrains\PyCharm 2024.3.1.1\workspace\Agent\agent_item\data\选购指南.txt已经存在于知识库中
+2026-03-06 15:32:59,904 - agent - INFO - middleware.py - 36 - [log_before_model]即将调用模型，带有1条信息。
+2026-03-06 15:33:43,603 - agent - INFO - middleware.py - 19 - [tool_monitor]执行工具：fill_context_for_report
+2026-03-06 15:33:43,604 - agent - INFO - middleware.py - 20 - [tool_monitor]传入参数：{}
+2026-03-06 15:33:43,607 - agent - INFO - middleware.py - 23 - [tool_monitor]工具fill_context_for_report调用成功
+2026-03-06 15:33:43,609 - agent - INFO - middleware.py - 19 - [tool_monitor]执行工具：get_current_month
+2026-03-06 15:33:43,611 - agent - INFO - middleware.py - 20 - [tool_monitor]传入参数：{}
+2026-03-06 15:33:43,611 - agent - INFO - middleware.py - 19 - [tool_monitor]执行工具：get_user_id
+2026-03-06 15:33:43,612 - agent - INFO - middleware.py - 20 - [tool_monitor]传入参数：{}
+2026-03-06 15:33:43,614 - agent - INFO - middleware.py - 23 - [tool_monitor]工具get_user_id调用成功
+2026-03-06 15:33:43,612 - agent - INFO - middleware.py - 23 - [tool_monitor]工具get_current_month调用成功
+2026-03-06 15:33:43,744 - agent - INFO - middleware.py - 36 - [log_before_model]即将调用模型，带有5条信息。
+2026-03-06 15:33:50,710 - agent - INFO - middleware.py - 19 - [tool_monitor]执行工具：fetch_external_data
+2026-03-06 15:33:50,711 - agent - INFO - middleware.py - 19 - [tool_monitor]执行工具：rag_summarize
+2026-03-06 15:33:50,711 - agent - INFO - middleware.py - 20 - [tool_monitor]传入参数：{'user_id': '1002', 'month': '2025-08'}
+2026-03-06 15:33:50,712 - agent - INFO - middleware.py - 20 - [tool_monitor]传入参数：{'query': '扫地机器人保养方法 常见问题处理 环境适配建议'}
+2026-03-06 15:33:50,716 - agent - INFO - middleware.py - 23 - [tool_monitor]工具fetch_external_data调用成功
+2026-03-06 15:35:10,785 - agent - INFO - middleware.py - 23 - [tool_monitor]工具rag_summarize调用成功
+2026-03-06 15:35:14,254 - agent - INFO - middleware.py - 36 - [log_before_model]即将调用模型，带有8条信息。

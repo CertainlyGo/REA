@@ -1,0 +1,20 @@
+2026-03-06 15:45:34,247 - agent - INFO - middleware.py - 36 - [log_before_model]即将调用模型，带有1条信息。
+2026-03-06 15:45:51,272 - agent - INFO - middleware.py - 19 - [tool_monitor]执行工具：fill_context_for_report
+2026-03-06 15:45:51,272 - agent - INFO - middleware.py - 20 - [tool_monitor]传入参数：{}
+2026-03-06 15:45:51,272 - agent - INFO - middleware.py - 23 - [tool_monitor]工具fill_context_for_report调用成功
+2026-03-06 15:45:51,695 - agent - INFO - middleware.py - 36 - [log_before_model]即将调用模型，带有3条信息。
+2026-03-06 15:45:54,779 - agent - INFO - middleware.py - 19 - [tool_monitor]执行工具：get_user_id
+2026-03-06 15:45:54,780 - agent - INFO - middleware.py - 20 - [tool_monitor]传入参数：{}
+2026-03-06 15:45:54,781 - agent - INFO - middleware.py - 23 - [tool_monitor]工具get_user_id调用成功
+2026-03-06 15:45:54,782 - agent - INFO - middleware.py - 19 - [tool_monitor]执行工具：get_current_month
+2026-03-06 15:45:54,782 - agent - INFO - middleware.py - 20 - [tool_monitor]传入参数：{}
+2026-03-06 15:45:54,783 - agent - INFO - middleware.py - 23 - [tool_monitor]工具get_current_month调用成功
+2026-03-06 15:45:54,911 - agent - INFO - middleware.py - 36 - [log_before_model]即将调用模型，带有6条信息。
+2026-03-06 15:45:58,297 - agent - INFO - middleware.py - 19 - [tool_monitor]执行工具：fetch_external_data
+2026-03-06 15:45:58,298 - agent - INFO - middleware.py - 20 - [tool_monitor]传入参数：{'month': '2025-01', 'user_id': '1004'}
+2026-03-06 15:45:58,300 - agent - INFO - middleware.py - 23 - [tool_monitor]工具fetch_external_data调用成功
+2026-03-06 15:46:00,029 - agent - INFO - middleware.py - 36 - [log_before_model]即将调用模型，带有8条信息。
+2026-03-06 15:46:07,881 - agent - INFO - middleware.py - 19 - [tool_monitor]执行工具：rag_summarize
+2026-03-06 15:46:07,881 - agent - INFO - middleware.py - 20 - [tool_monitor]传入参数：{'query': '扫地机器人保养建议 主刷缠绕处理 滤网更换 宠物猫使用建议 吸力升级选择'}
+2026-03-06 15:47:55,713 - agent - INFO - middleware.py - 23 - [tool_monitor]工具rag_summarize调用成功
+2026-03-06 15:47:59,618 - agent - INFO - middleware.py - 36 - [log_before_model]即将调用模型，带有10条信息。

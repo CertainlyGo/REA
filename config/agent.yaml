@@ -1,0 +1,4 @@
+chat_model: qwen3.5:9b
+embedding_model: qwen3-embedding:0.6b
+
+external_data_path: data/external/records.csv

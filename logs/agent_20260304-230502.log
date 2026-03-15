@@ -1,0 +1,21 @@
+2026-03-04 23:05:24,200 - agent - INFO - middleware.py - 36 - [log_before_model]即将调用模型，带有1条信息。
+2026-03-04 23:05:30,109 - agent - INFO - middleware.py - 19 - [tool_monitor]执行工具：get_user_id
+2026-03-04 23:05:30,110 - agent - INFO - middleware.py - 20 - [tool_monitor]传入参数：{}
+2026-03-04 23:05:30,110 - agent - INFO - middleware.py - 23 - [tool_monitor]工具get_user_id调用成功
+2026-03-04 23:05:30,111 - agent - INFO - middleware.py - 36 - [log_before_model]即将调用模型，带有3条信息。
+2026-03-04 23:05:33,957 - agent - INFO - middleware.py - 19 - [tool_monitor]执行工具：get_current_month
+2026-03-04 23:05:33,957 - agent - INFO - middleware.py - 20 - [tool_monitor]传入参数：{}
+2026-03-04 23:05:33,958 - agent - INFO - middleware.py - 23 - [tool_monitor]工具get_current_month调用成功
+2026-03-04 23:05:33,958 - agent - INFO - middleware.py - 36 - [log_before_model]即将调用模型，带有5条信息。
+2026-03-04 23:05:36,875 - agent - INFO - middleware.py - 19 - [tool_monitor]执行工具：fill_context_for_report
+2026-03-04 23:05:36,875 - agent - INFO - middleware.py - 20 - [tool_monitor]传入参数：{}
+2026-03-04 23:05:36,875 - agent - INFO - middleware.py - 23 - [tool_monitor]工具fill_context_for_report调用成功
+2026-03-04 23:05:36,876 - agent - INFO - middleware.py - 36 - [log_before_model]即将调用模型，带有7条信息。
+2026-03-04 23:05:40,190 - agent - INFO - middleware.py - 19 - [tool_monitor]执行工具：fetch_external_data
+2026-03-04 23:05:40,190 - agent - INFO - middleware.py - 20 - [tool_monitor]传入参数：{'month': '2025-11', 'user_id': '1005'}
+2026-03-04 23:05:40,191 - agent - INFO - middleware.py - 23 - [tool_monitor]工具fetch_external_data调用成功
+2026-03-04 23:05:40,192 - agent - INFO - middleware.py - 36 - [log_before_model]即将调用模型，带有9条信息。
+2026-03-04 23:05:43,842 - agent - INFO - middleware.py - 19 - [tool_monitor]执行工具：rag_summarize
+2026-03-04 23:05:43,842 - agent - INFO - middleware.py - 20 - [tool_monitor]传入参数：{'query': '扫地机器人 老人家庭使用 维护保养建议 电池衰减处理'}
+2026-03-04 23:07:23,606 - agent - INFO - middleware.py - 23 - [tool_monitor]工具rag_summarize调用成功
+2026-03-04 23:07:23,607 - agent - INFO - middleware.py - 36 - [log_before_model]即将调用模型，带有11条信息。
